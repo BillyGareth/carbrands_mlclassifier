@@ -14,6 +14,8 @@ Closing the leaderboard we have Mercedes with 2.43 million units (-8.4%), follow
 
 However, the star of the year is certainly Tesla. The American brand jumped in 39th position, with 538.038 units sold (+46.2%), surpassing the goal they had set themselves of surpassing the 500.000 vehicles sold mark.
 
+#########################################################################FYI############################################################################################
+
 ### Memory Profiler
 @profile 
 def append_lst():
