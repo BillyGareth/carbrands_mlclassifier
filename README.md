@@ -13,3 +13,12 @@ In 6th position, Hyundai reported 3.71 million sales (-15.22%), followed by the 
 Closing the leaderboard we have Mercedes with 2.43 million units (-8.4%), followed by  BMW -a new entry in the leaderboard- reporting 2.05 million units (-8.4%).
 
 However, the star of the year is certainly Tesla. The American brand jumped in 39th position, with 538.038 units sold (+46.2%), surpassing the goal they had set themselves of surpassing the 500.000 vehicles sold mark.
+
+###Memory Profiler
+@profile 
+def append_lst():
+  lst=[] 
+  for i in range(1000000):
+    lst.append(i) 
+    
+append_lst()
