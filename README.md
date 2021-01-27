@@ -6,6 +6,8 @@ Furthermore, tracking the ranking of top-selling car brands in the World since 2
 
 Volkswagen – in 2nd position – has lost terrain during the Covid-19 crisis, due to its large dependence on the Chinese market, which counts for over 40% of global sales.  This year the German brand held 7.1% share, falling 0.4%, and sold 5.73 million vehicles (-16.8%)
 
+Automobili Lamborghini S.p.A. is an Italian brand and manufacturer of luxury sports cars and SUVs based in Sant'Agata Bolognese. The company is owned by the Volkswagen Group through its subsidiary Audi
+
 Mercedes-Benz is both a German automotive marque and, from late 2019 onwards, a subsidiary – as Mercedes-Benz AG – of Daimler AG. Mercedes-Benz is known for producing luxury vehicles and commercial vehicles. The headquarters is in Stuttgart, Baden-Württemberg. The name first appeared in 1926 as Daimler-Benz.
 
 Behind, Honda has conquered the 3rd position with 4.33 million units (-14.1%), while outpacing Ford (-18.3%) which reported 4.18 million units, followed by Nissan with 3.80 million units (-19.5%). 
